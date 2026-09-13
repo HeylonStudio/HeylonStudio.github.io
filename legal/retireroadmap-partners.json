@@ -8,13 +8,14 @@
     "palette-f": { "name": "Default", "palette": "palette-f" },
     "palette-g": { "name": "Aurora", "palette": "palette-g" },
     "palette-h": { "name": "Sky", "palette": "palette-h" },
+    "palette-m": { "name": "Floral", "palette": "palette-m" },
+    "palette-n": { "name": "Bluemap", "palette": "palette-n" },
     "palette-marina": { "name": "Marina", "palette": "palette-marina" },
     "palette-hills": { "name": "Hills", "palette": "palette-hills" },
-    "palette-flowers": { "name": "The Newbys", "palette": "palette-flowers" },
-    "palette-roadmap": { "name": "Mike Upland", "palette": "palette-roadmap" },
-    "newbys": { "name": "The Newbys", "palette": "palette-flowers", "background": "newbys.png", "wordmark": "newbys-wordmark.png" },
-    "roadmap": { "name": "Mike Upland", "palette": "palette-roadmap", "background": "roadmap.png" }
+    "newbys": { "name": "The Newbys", "palette": "palette-m", "background": "newbys.png", "wordmark": "newbys-wordmark.png" },
+    "roadmap": { "name": "Mike Upland", "palette": "palette-n", "background": "roadmap.png" },
     "test1": { "name": "Tester One", "palette": "palette-d" },
     "test2": { "name": "Tester Two", "palette": "palette-b" }
   }
 }
+
