@@ -12,8 +12,8 @@
     "palette-hills": { "name": "Hills", "palette": "palette-hills" },
     "palette-flowers": { "name": "The Newbys", "palette": "palette-flowers" },
     "palette-roadmap": { "name": "Mike Upland", "palette": "palette-roadmap" },
-    "newbys": { "name": "The Newbys", "palette": "palette-flowers" },
-    "roadmap": { "name": "Mike Upland", "palette": "palette-roadmap" },
+    "newbys": { "name": "The Newbys", "palette": "palette-flowers", "background": "newbys.png", "wordmark": "newbys-wordmark.png" },
+    "roadmap": { "name": "Mike Upland", "palette": "palette-roadmap", "background": "roadmap.png" }
     "test1": { "name": "Tester One", "palette": "palette-d" },
     "test2": { "name": "Tester Two", "palette": "palette-b" }
   }
