@@ -1,22 +1,20 @@
 {
   "partners": {
-    "palette-a": { "name": "Mint", "palette": "palette-a" },
-    "palette-b": { "name": "Navy", "palette": "palette-b" },
-    "palette-c": { "name": "Lavender", "palette": "palette-c" },
-    "palette-d": { "name": "White", "palette": "palette-d" },
-    "palette-e": { "name": "Forest", "palette": "palette-e" },
-    "palette-f": { "name": "Default", "palette": "palette-f" },
-    "palette-g": { "name": "Aurora", "palette": "palette-g" },
-    "palette-h": { "name": "Sky", "palette": "palette-h" },
-    "palette-m": { "name": "Floral", "palette": "palette-m" },
-    "palette-n": { "name": "Bluemap", "palette": "palette-n" },
-    "palette-marina": { "name": "Marina", "palette": "palette-marina" },
-    "palette-hills": { "name": "Hills", "palette": "palette-hills" },
+    "Mint": { "name": "Mint", "palette": "palette-a" },
+    "Navy": { "name": "Navy", "palette": "palette-b" },
+    "Lavender": { "name": "Lavender", "palette": "palette-c" },
+    "White": { "name": "White", "palette": "palette-d" },
+    "Forest": { "name": "Forest", "palette": "palette-e" },
+    "Default": { "name": "Default", "palette": "palette-f" },
+    "Aurora": { "name": "Aurora", "palette": "palette-g" },
+    "Sky": { "name": "Sky", "palette": "palette-h" },
+    "Floral": { "name": "Floral", "palette": "palette-m" },
+    "Blue": { "name": "Blue", "palette": "palette-n" },
+    "Marina": { "name": "Marina", "palette": "palette-marina" },
+    "Hills": { "name": "Hills", "palette": "palette-hills" },
     "newbys": { "name": "The Newbys", "palette": "palette-m", "background": "newbys.png", "wordmark": "newbys-wordmark.png" },
     "roadmap": { "name": "Mike Upland", "palette": "palette-n", "background": "roadmap.png" },
     "tim": { "name": "The New Retired Me", "palette": "palette-m", "wordmark": "retiredme.png" },
-    "test1": { "name": "Tester One", "palette": "palette-d" },
-    "test2": { "name": "Tester Two", "palette": "palette-b" }
   }
 }
 
