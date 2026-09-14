@@ -14,6 +14,7 @@
     "palette-hills": { "name": "Hills", "palette": "palette-hills" },
     "newbys": { "name": "The Newbys", "palette": "palette-m", "background": "newbys.png", "wordmark": "newbys-wordmark.png" },
     "roadmap": { "name": "Mike Upland", "palette": "palette-n", "background": "roadmap.png" },
+    "tim": { "name": "The New Retired Me", "palette": "palette-m", "background": "retiredme.png" },
     "test1": { "name": "Tester One", "palette": "palette-d" },
     "test2": { "name": "Tester Two", "palette": "palette-b" }
   }
