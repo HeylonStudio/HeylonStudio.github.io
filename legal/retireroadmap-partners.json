@@ -13,10 +13,10 @@
     "Marina": { "name": "Marina", "palette": "palette-marina" },
     "Hills": { "name": "Hills", "palette": "palette-hills" },
     "newbys": { "name": "The Newbys", "palette": "palette-m", "background": "newbys.png", "wordmark": "newbys-wordmark.png" },
+    "ourchateaulife": { "name": "Our Château Life", "palette": "palette-a", "background": "ocl.png", "wordmark": "ocl-wordmark.png" },
     "Flowers": { "name": "Flowers", "palette": "palette-m", "background": "newbys.png" },
     "roadmap": { "name": "Mike Upland", "palette": "palette-n", "background": "roadmap.png" },
     "tim": { "name": "The New Retired Me", "palette": "palette-m", "wordmark": "retiredme.png" },
     "oldmap": { "name": "Old Map", "palette": "palette-o", "background": "oldmap.png" }
   }
 }
-
