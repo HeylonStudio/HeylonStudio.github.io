@@ -18,7 +18,7 @@
     "roadmap": { "name": "Mike Upland", "palette": "palette-n", "background": "roadmap.png" },
     "tim": { "name": "The New Retired Me", "palette": "palette-m", "wordmark": "retiredme.png" },
     "oldmap": { "name": "Old Map", "palette": "palette-o", "background": "oldmap.png" },
-	"ooba": { "name": "ooba", "palette": "palette-d", "wordmark": "ooba-wordmark.png" },
+	"ooba": { "name": "ooba", "palette": "palette-p", "wordmark": "ooba-wordmark.png" },
 	"4S4": { "name": "4S4", "palette": "palette-f", "wordmark": "4s4-wordmark.png" }
   }
 }
